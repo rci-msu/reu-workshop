@@ -8,6 +8,11 @@ There are two ways to run the example:
 1. Using the MATLAB GUI in a remote desktop session.
 2. Submitting an sbatch job.
 
+Before running the example, `data.zip` needs to be unzipped:
+```
+unzip data.zip
+```
+
 ### Using the MATLAB GUI
 1. Launch a Tempest Xfce Desktop interactive session
 2. In the remote desktop session, open a terminal and load the following modules:
